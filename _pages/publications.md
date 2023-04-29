@@ -15,7 +15,7 @@ Learning for Online Distillation”, Submitted, March 2023.
 Integrating Curriculum Design for Teacher Assistant-based Knowledge Distillation.”, Edge Intelligence Workshop, Montreal,
 September 2022.
 
-**Ibtihel Amara**, Maryam Ziaeefard, Brett Haden Meyer, Warren Gross, and James J. Clark. ”CES-KD: Curriculum-
+- **Ibtihel Amara**, Maryam Ziaeefard, Brett Haden Meyer, Warren Gross, and James J. Clark. ”CES-KD: Curriculum-
 based Expert Selection for Guided Knowledge Distillation.”, 26th International Conference on Pattern Recognition (ICPR),
 2022.
 
