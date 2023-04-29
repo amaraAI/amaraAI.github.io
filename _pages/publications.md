@@ -20,10 +20,10 @@ based Expert Selection for Guided Knowledge Distillation.”, 26th International
 2022.
 
 - Zahra Vaseqi, **Ibtihel Amara**, Samrudhdhi B Rangrej. ”Label Noise Resiliency with Self-supervised Representations.”,
-Self-Supervised Learning Theory and Practice (NeurIPS Workshop), 2021
+Self-Supervised Learning Theory and Practice (NeurIPS Workshop), 2021.
 
 - Houssein Ayoub, **Ibtihel Amara**, Susanne Awad, Hiam Chemaitelly, and Laith Abu-Raddad. ”Analytic characteri-
-zation of the herpes simplex virus type 2 epidemic in the United States, 1950-2050.”, Open Forum Infectious Diseases, 2021
+zation of the herpes simplex virus type 2 epidemic in the United States, 1950-2050.”, Open Forum Infectious Diseases, 2021.
 
 - **Ibtihel Amara** and James J. Clark. ”Uncertainty transfer with knowledge distillation.”, Edge Intelligence Workshop,
 Montreal, March 2020.
@@ -31,4 +31,4 @@ Montreal, March 2020.
 - **Ibtihel Amara**, Eric Granger, and Abdenour Hadid. ”Contextual Weighting of Patches for Local Matching in Still-to-Video Face Recognition.”, Automatic Face & Gesture Recognition (FG 2018), 2018 13th IEEE International Conference on. IEEE, 2018.
 
 - **Ibtihel Amara**, Eric Granger, and Abdenour Hadid. ”On the effects of illumination normalization with LBP-based
-watchlist screening.” European Conference on Computer Vision (ECCV), LBP Workshop, 2014
+watchlist screening.” European Conference on Computer Vision (ECCV), LBP Workshop, 2014.
