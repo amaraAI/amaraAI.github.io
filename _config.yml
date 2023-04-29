@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ibtihel Amara"
-  avatar           : "profile_pic.jpg"
+  avatar           : "pic_new.jpg"
   bio              : "PhD Student at McGill University"
   location         : "Canada"
   employer         :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/ibtihel-amara-503a00102/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/amara_ibtihel"
+  twitter          : "amara_ibtihel"
   vine             :
   weibo            :
   xing             :
