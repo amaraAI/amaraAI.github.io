@@ -11,49 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Electrical Engineering, École de Technologie Supérieure (ÉTS), Montreal, Canada, 2016
+* Ph.D in Electrical and Computer Engineering, McGill University, 2024 (expected)
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI & Data Scientist, [November 2021 - January 2023]
+  * Inmind Technologies/ Mind in a box
+  * Duties included:  Meet with clients to bring AI and automation into solving their business needs; Prepare proposals for projects; Formulate recommendations and implement them for the clients’ business challenges related to AI; Support the research and development of Mind in a Box products.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Research Specialist, [February 2017 - January 2018]
+  * Weill cornell Medical College, Cornell University
+  * Infectious Disease Epidemiology Group (IDEG)
+  * Investigate the epidemiology of infectious diseases through the use of mathematical modeling.
