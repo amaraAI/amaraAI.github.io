@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ibtihel Amara, a Research Scientist at Google. My work is centered on building reliable multimodal agents, with a special focus on their behavior and collaboration within multi-agent systems. 
+Hi! I am Ibtihel Amara, a **Research Scientist at Google**. 
+My work is centered on building reliable multimodal agents, with a special focus on their behavior and collaboration within multi-agent systems. 
 I am passionate about ensuring the efficiency, quality, and reliability of these complex systems, and my current research interests include developing new methodologies for evaluating agents in a multimodal setting.
 
 
